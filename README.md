@@ -5,7 +5,7 @@ Dan Maloney did a [nice little writeup](https://hackaday.com/2019/11/18/a-newbie
 
 The normal kit starts off at 1206 components and goes down to 0201, however SMD components have been getting smaller and smaller
 
-I had the crazy idea to make something similar, but as small as possible
+After finding the infamous 555 timer comes in a [8ball BGA package](https://www.ti.com/product/LMC555), I had the crazy idea to make something similar, but as small as possible
 
 ## Basic Components
 - 555 Timer in dsBGA package (1.41x1.43mm)
