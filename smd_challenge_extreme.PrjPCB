@@ -122,6 +122,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGPWUAHL
 
+[Document6]
+DocumentPath=smd_challenge_extreme.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=9F271410-D148-425F-AD94-B25B2667C8A0
 Description=Production
